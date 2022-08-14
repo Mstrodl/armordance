@@ -1,0 +1,10 @@
+dependencies:
+  bvh-parser: 1.0.0
+lockfileVersion: 5.1
+packages:
+  /bvh-parser/1.0.0:
+    dev: false
+    resolution:
+      integrity: sha512-rNoLO7TnN3uMnqQ6rzsIHFAXeO110Gb0GqDwoEuiyehZhT0eAaP0ybh+A78BK/n94VZ+9qjNEr+jLaKh/pVK4w==
+specifiers:
+  bvh-parser: ^1.0.0

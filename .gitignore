@@ -1,0 +1,4 @@
+*.mcfunction
+node_modules
+*.blend
+*.bvh
